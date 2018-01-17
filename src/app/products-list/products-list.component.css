@@ -1,0 +1,16 @@
+.products-list {
+  display: flex;
+}
+
+.product-item {
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  flex: 1 0 25%;
+}
+
+.product-image {
+  background-size: 50% auto;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 150px;
+}
